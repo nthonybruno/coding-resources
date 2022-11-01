@@ -8,6 +8,7 @@
 2. Cracking the Coding Interview
 #### Questions
 1. [31 Software Engineering Interview Questions With Answers](https://www.springboard.com/blog/software-engineering/21-software-engineering-interview-questions/)
+2. [84 Full Stack Interview Questions](https://www.springboard.com/blog/software-engineering/full-stack-developer-interview-questions/)
 
 #### Finding company interview Questions
 1. [GlassDoor](https://www.glassdoor.com/Reviews/index.htm?overall_rating_low=3&page=1&occ=B.S.%20Cybersecurity)
@@ -19,6 +20,18 @@
 2. [One Month Preperation Kit](https://www.hackerrank.com/interview/preparation-kits/one-month-preparation-kit/one-month-week-one/challenges)
 3. [Algorithms](https://www.hackerrank.com/domains/algorithms)
 ##### [LeetCode](https://leetcode.com/)
+
+***
+### Building Skills
+1. [Salesforce Trailhead] (https://trailhead.salesforce.com/) 
+
+
+***
+### Soft Skills
+#### Agile
+1. [Agile Manifesto](https://agilemanifesto.org/)
+2. [Salesforce Agile Introduction](https://trailhead.salesforce.com/content/learn/modules/salesforce-agile-basics)
+
 
 ***
 ### Markdown
@@ -41,6 +54,8 @@
 1. [Kurose and Ross, "Computer Networking: A Top-Down Approach", 8th Edition, ISBN-
 13: 9780132856201] https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/
 
+***
+## Other
 ### Strategies for Building Skills & Becoming More Desirable to Employers.
 1. Revamp your online Presence. Update your profiles across LinkedIn, GlassDoor, GitHub, Indeed and any other professional sites with UPDATED and COMPLETE information.
 2. Search for job postings that speak to you. Maybe you are interested in Product Design or Product Management roles, but your experience and education is within Computer Science. For this, see *Strategies for Picking a Career Path* below. But, if you do know the direction, then ignore the rest focus on step 2 below.
