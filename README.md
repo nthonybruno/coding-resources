@@ -27,7 +27,11 @@
 
 ***
 ### Brainstorm Coding Project Ideas for Your GitHub
+
 1. [27 Project Ideas by Anupam Chugh](https://medium.com/geekculture/28-project-ideas-to-practice-your-programming-skills-d27eaa3d8ada)
+2. [Springboard Coding Project Ideas](https://www.springboard.com/blog/software-engineering/coding-project-ideas/)
+3. [Codecademy's 10 Coding Projects for Beginners](https://www.codecademy.com/resources/blog/coding-projects-for-beginners/)
+
 ***
 ### Soft Skills
 #### Agile
