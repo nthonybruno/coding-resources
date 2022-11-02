@@ -25,7 +25,9 @@
 ### Building Skills
 1. [Salesforce Trailhead] (https://trailhead.salesforce.com/) 
 
-
+***
+### Brainstorm Coding Project Ideas for Your GitHub
+1. [27 Project Ideas by Anupam Chugh](https://medium.com/geekculture/28-project-ideas-to-practice-your-programming-skills-d27eaa3d8ada)
 ***
 ### Soft Skills
 #### Agile
