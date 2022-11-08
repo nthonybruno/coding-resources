@@ -54,7 +54,11 @@
 ***
 ### Algorithms
 
+***
+### AI
+https://nyu-mll.github.io/nyu-ai-school-2021/
 
+***
 ### Networking
 #### TCP/IP
 1. [Kurose and Ross, "Computer Networking: A Top-Down Approach", 8th Edition, ISBN-
