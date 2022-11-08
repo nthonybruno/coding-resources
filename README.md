@@ -65,6 +65,10 @@ https://nyu-mll.github.io/nyu-ai-school-2021/
 13: 9780132856201] https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/
 
 ***
+### Security
+1. https://danielmiessler.com/study/infosec_interview_questions/
+
+***
 ## Other
 ### Strategies for Building Skills & Becoming More Desirable to Employers.
 1. Revamp your online Presence. Update your profiles across LinkedIn, GlassDoor, GitHub, Indeed and any other professional sites with UPDATED and COMPLETE information.
