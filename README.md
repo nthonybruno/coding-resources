@@ -39,21 +39,20 @@
 
 ## Languages
 1. Python
-  1.  (http://www.cs.hmc.edu/csforall/)
+    1.[CS FOR ALL](http://www.cs.hmc.edu/csforall/)
 2. C
 3. C++
 4. PowerShell
 
 ## AI
-https://nyu-mll.github.io/nyu-ai-school-2021/
+1. [NYU AI School Archive](https://nyu-mll.github.io/nyu-ai-school-2021/)
 
 ## Networking
 #### TCP/IP
-1. [Kurose and Ross, "Computer Networking: A Top-Down Approach", 8th Edition, ISBN-
-13: 9780132856201] https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/
+1. [Kurose and Ross, "Computer Networking: A Top-Down Approach", 8th Edition, ISBN-13: 9780132856201](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/)
 
 ## Security
-1. https://danielmiessler.com/study/infosec_interview_questions/
+1. [InfoSec Interview Questions](https://danielmiessler.com/study/infosec_interview_questions/)
 
 ## Other
 ### Strategies for Building Skills & Becoming More Desirable to Employers.
